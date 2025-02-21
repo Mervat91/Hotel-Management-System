@@ -40,3 +40,16 @@ Customer’s booked rooms and menu.
 5. If a Hotel Manager, they receive a welcome message and gain access to:
 
 Food inventory management (add, remove, or view stock).
+
+
+Team Members :
+
+Mervat Hussein Hassan Morsi
+
+Habiba Ahmed Mohamed Qutb
+
+Iman Talal Ahmed Omar
+
+Asmaa Mahmoud Mohamed Mohamed
+
+Malak Khaled Al-Waleed Hafni Abdel Hamid
